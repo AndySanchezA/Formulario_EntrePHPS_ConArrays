@@ -1,0 +1,114 @@
+*{
+    margin: 1rem;
+    text-align: center;
+   
+  border-radius: 10px;
+
+}
+.fondo{
+
+  /*PARA QUE LA IMAGENE SE AJUSTE AL MARGEN DEL BORDER*/
+  background-image: url(../gif/universe.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+
+}
+
+.principal header  {
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-family: magneto;
+    text-align: center;
+    width: 26rem;
+    height: 4rem;
+    background-color: gray;
+    margin-right: auto;
+    margin-left: auto;
+}
+section main {
+    height: auto;
+    background-color: green;
+    margin-top: 1rem;
+    
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 11px 15px -9px rgba(0, 0, 0, 0.63);
+  -moz-box-shadow: 0px 11px 15px -9px rgba(0, 0, 0, 0.63);
+  box-shadow: 0px 11px 15px -9px rgba(0, 0, 0, 0.63);
+}
+
+body{
+    text-align: center;
+  
+}
+.margen{
+    border: 0.5rem solid black;
+    background-color: lightcyan;
+    height: 100%;
+    padding:2rem;
+    width:30rem;
+    margin-right: auto;
+    margin-left: auto;
+margin-top: 3rem;
+border-radius: 20px;
+-webkit-box-shadow: 0px 11px 15px -9px rgba(0, 0, 0, 0.63);
+-moz-box-shadow: 0px 11px 15px -9px rgba(0, 0, 0, 0.63);
+box-shadow: 0px 11px 15px -9px rgba(0, 0, 0, 0.63);
+
+}
+
+.div2{
+    padding: auto;
+    width:auto;
+    height: 100%;
+    background:blue;
+    border: 1px solid black ;
+font-size: 20px;
+text-align: center;
+display:  block;
+
+}
+
+.texto{
+    background-color: black;
+    color: wheat;
+    font-size: x-large;
+    text-align: center;
+}
+
+.formulario {
+    margin: 0 auto;
+    padding: 0px 0px 15px ;
+margin-top: 20px;
+width: 25rem;
+height: 100%;
+border: 0.5rem solid black;
+background-color: blue;
+text-align: center;
+
+}
+.tabla{
+
+text-align: center;
+margin-right: auto;
+margin-left: auto;
+background-color:red;
+
+}
+input{
+
+    width: 10rem;
+    text-align: center;
+}
+
+.ajax{
+    background-color:transparent;
+    height: auto;
+    border: 1px dotted black;
+    width: 10rem;
+    text-align: center;
+    margin-left: auto;margin-right: auto;
+
+}
